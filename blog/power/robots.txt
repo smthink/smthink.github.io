@@ -1,0 +1,1 @@
+Sitemap: https://smthink.github.io/blog/power/sitemap.xml

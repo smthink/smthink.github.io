@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/power/jekyll/update/2024/12/27/welcome-to-jekyll.html</loc>
+<loc>https://smthink.github.io/blog/power/jekyll/update/2024/12/27/welcome-to-jekyll.html</loc>
 <lastmod>2024-12-27T15:02:06+05:30</lastmod>
 </url>
 <url>
-<loc>/power/about/</loc>
+<loc>https://smthink.github.io/blog/power/about/</loc>
 </url>
 <url>
-<loc>/power/</loc>
+<loc>https://smthink.github.io/blog/power/</loc>
 </url>
 </urlset>
