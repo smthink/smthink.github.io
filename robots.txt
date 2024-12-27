@@ -1,0 +1,1 @@
+Sitemap: /power/sitemap.xml
