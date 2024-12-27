@@ -2,11 +2,11 @@
 layout: post
 title:  "Physical Limits"
 date:   2024-12-27 15:02:06 +0530
-categories: power physics
+categories: 
 ---
 
 Sample image
-![Power Split with Node](blog/power/assets/p1.png)
+![Power Split with Node](/assets/p1.png)
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
