@@ -1,1 +1,1 @@
-Sitemap: https://smthink.github.io/blog/power/sitemap.xml
+Sitemap: http://localhost:4000/blog/power/sitemap.xml
